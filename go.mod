@@ -10,7 +10,7 @@ require (
 	github.com/fatih/color v1.12.0
 	github.com/git-chglog/git-chglog v0.14.2
 	github.com/go-task/task/v3 v3.4.3
-	github.com/golangci/golangci-lint v1.39.0
+	github.com/golangci/golangci-lint v1.41.1
 	github.com/google/uuid v1.2.0
 	github.com/goreleaser/goreleaser v0.157.0
 	github.com/hokaccha/go-prettyjson v0.0.0-20210113012101-fb4e108d2519
@@ -32,9 +32,9 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/gjson v1.8.0
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
+	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
 	golang.org/x/term v0.0.0-20210503060354-a79de5458b56
-	golang.org/x/tools v0.1.0
+	golang.org/x/tools v0.1.3
 	gopkg.in/yaml.v2 v2.4.0
 	gotest.tools/gotestsum v1.6.4
 	mvdan.cc/sh/v3 v3.3.0
